@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King the effect pf certaine letters patents granted to Ioseph Vsher, of London, clothworker, Warner Rich, and Godfrey de Vette, free denizens, for the making and erecting of certaine engines.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1612</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22077</idno>
+            <idno type="STC">STC 8480</idno>
+            <idno type="STC">ESTC S3676</idno>
+            <idno type="EEBO-CITATION">33150744</idno>
+            <idno type="OCLC">ocm 33150744</idno>
+            <idno type="VID">28735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28735)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:65)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King the effect pf certaine letters patents granted to Ioseph Vsher, of London, clothworker, Warner Rich, and Godfrey de Vette, free denizens, for the making and erecting of certaine engines.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+                  <author>Usher, Joseph.</author>
+                  <author>Rich, Warner.</author>
+                  <author>Vette, Godfrey de.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1611.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The offer of the Enginers" appears at bottom of sheet, telling where the engine will be demonstrated.</note>
+                  <note>"Giuen at Whitehall the one and twentieth day of September, 1612 in the tenth yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Usher, Joseph.</term>
+               <term>Rich, Warner.</term>
+               <term>Vette, Godfrey de.</term>
+               <term>Pumping machinery --  England --  Patents --  Early works to 1800.</term>
+               <term>Patents --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:28735:1"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <div type="part">
+               <head type="sub">¶ The effect of certaine Letters Patents granted to Ioſeph Vſsher of London Clothworker, <hi>Warner Rich,</hi> and <hi>Godfrey de <g ref="char:V">Ʋ</g>ette,</hi> free Denizens, for the making and erecting of certaine Engines.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Hereas the ſaid <hi>Ioſeph <g ref="char:V">Ʋ</g>sſher, Warner Rich,</hi> and <hi>Godfrey de <g ref="char:V">Ʋ</g>ette,</hi> hauing to</hi> the benefit of the Common weale, deuiſed a new apt commodious and compendious forme or kinde of Engine or Inſtrument to be put in vre, driuen and wrought withall by water of Wa<g ref="char:EOLhyphen"/>terworke, or by winde, or by man or horſe, for a quicke and more ſpeedy way and meane, then heretofore hath bene vſed, aſwell for the rayſing, mounting, and bringing of water for the ſe<g ref="char:EOLhyphen"/>uice of whole Cities, Townes, priuate houſes, and places, as for the emptying, cleanſing, and drayning of all ouerflowed, drowned or ſurrounded grounds, low valleyes, or any ſtanding Pooles, Meeres, Marſhes or Mines vnderground, ouerflowed or annoyed with water; And of the ſame Engine or Inſtrument, hauing deliuered to the Lord Chancellour of England a perfect Modell that bringeth vp water, there remaining, and to be diſpoſed as the ſaid Lord Chancellour ſhould thinke fit; <hi>IT</hi> hath pleaſed his Maieſtie by his Highneſſe Letters Pa<g ref="char:EOLhyphen"/>tents, ſealed with his great Seale of England, to graunt vnto them and their Aſſignes, free Licence and Authoritie for the ſole making, exerciſing and putting in vre within this Realme of England, Dominion of Wales, and Towne of Bar<g ref="char:EOLhyphen"/>wicke, the ſaid new kind or forme of Engine or Inſtrument, whereof they are or ſhalbe the firſt Deuiſors or Inuentors, and whereof they haue exhibited a Modell to the Lord Chancellour of England, <hi>AND</hi> his Maieſtie hath alſo thereby ſtraitly prohibited all perſons, That none of them doe attempt the making, vſing or exerciſing of any the like Engine or Inſtrument, vpon paine of forfeiture thereof, and to haue the ſame wholy defaced, or ouerthrowen and pulled downe, and vpon ſuch other paines and penalties, as in the ſame Letters Patents are expreſſed.</p>
+               <p>
+                  <hi>THESE</hi> are therfore to giue notice and knowledge thereof, to all and euery perſon &amp; perſons whatſoeuer, That none of them, other then the ſaid <hi>Ioſeph Vsſher, Warner Rich,</hi> and <hi>Godfrey de Vette,</hi> their Executors, Adminiſtrators, Deputies, ſeruants, Factors, or Aſſignes, or ſome of them do at any time or times hereafter, contrary to the tenour of his Maieſties, ſaid Letters Patents, attempt, preſume, goe about, or take in hand by any maner of way, directly or indirectly, to make, deuiſe, imitate, vſe, exerciſe, practiſe, put in vre or counterfait by the Patterne, example, copie or faſhion of the ſaid Engine or Inſtrument, whereof the ſaid <hi>Ioſehp Vsſher, Warner Rich,</hi> and <hi>Godfrey de Vette,</hi> or any of them, are or ſhalbe the firſt De<g ref="char:EOLhyphen"/>uiſors or Inuentors, any other the like Engine, Inſtrument or deuice whatſoeuer, that ſhall be by them deuiſed, erected made, and ſet vp as aforeſaid.</p>
+               <closer>
+                  <dateline>Giuen at Whitehall <date>the one and twentieth day of September 1612, in the tenth yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+                  </dateline>
+                  <lb/>
+God ſaue the King.</closer>
+            </div>
+            <div type="part">
+               <head>¶ The offer of the Enginers.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Lſo theſe are to giue notice and knowledge to all and euery Perſon and perſons, that are or ſhall bee willing to haue the vſe and commoditie of any ſuch Engine or Inſtrument, That if they pleaſe to reſort to the houſe called <hi>Goodmans houſe,</hi> neere <hi>Goodmans fields</hi> in the <hi>Minories</hi> without <hi>Algate,</hi> London, or to the dwelling houſe of the ſaid <hi>Iohſeph Vsſher</hi> in <hi>Townes-end Lane,</hi> neere <hi>Queene-hithe</hi> in London, There the ſaid <hi>Ioſeph Vsſher, Warner Rich,</hi> and <hi>Godfrey de Vette,</hi> or their Dequties, will be ready to con<g ref="char:EOLhyphen"/>ferre and agree with any ſuch perſon or perſons, for the making and erecting of any ſuch Engine or Inſtrument to be vſed as aforeſaid. And vpon compoſition or agreement in that behalfe, wil vnder<g ref="char:EOLhyphen"/>take to make ſuch Engine or Inſtrument at their owne charges, to be firſt tried and put in practiſe, and then to be payed for the ſame according to ſuch agreement.</p>
+               <p>And that all and eueryſuch perſon and perſons, as for their better ſatisfaction ſhall be deſirous to ſee an experiment of the ſaid Engine or Inſtrument, if they pleaſe at any time or times hereafter, to reſort to any the houſes or places afore<g ref="char:EOLhyphen"/>ſaid, They the ſaid Enginers or their Deputies, will ſhew, or cauſe to be ſhewed vnto them a ſight and triall of the ſame En<g ref="char:EOLhyphen"/>gine or Inſtrument, which hath bene already ſeene and tried by certaine of the Right Honourable Lords of his Maieſties moſt Honourable Priuy Counſel, and that hath bene by them approued as commodious and neceſſary to be put in vſe with<g ref="char:EOLhyphen"/>in this Realme.</p>
+               <closer>God ſaue the King.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by ROBERT BARKER, Printer to the Kings moſt Excellent Maieſtie. ANNO 1612.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
